@@ -6,7 +6,7 @@ abstract class AbstractDisplay {
     /**
      * 表示するデータ
      */
-    private $datas;
+    private $data;
 
     /**
      * コンストラクタ
